@@ -15,7 +15,7 @@ for (var x = 0; x <= 100; x++) {
     }
    }
 
-//I wasn't able to figure our part 2 of FizzBuzz but I do understand the code
+//I wasn't able to figure out part 2 of FizzBuzz but I do understand the code
 //I will keep the code as a point of reference for me
 for (var n = 1; n <= 100; n++) {
     var output = "";
